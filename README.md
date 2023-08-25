@@ -1,0 +1,4 @@
+- 👋 Sabrinna do Nascimento
+- 👀 Estudo Java, JavaScript, Python, HTML e CSS
+- 🌱 Sou do P3 de Informática
+- 💞️ Sou aluna do IFCE
