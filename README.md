@@ -23,9 +23,9 @@ I'm Sabrinna and I take a technical computer course at IFCE!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/sabrinnanf07@gmail.com)
   
 <!-- GitHub Stats -->
-![Sabrinna07 GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinna07&show_icons=true&theme=gotham)
+![Sabrinn07 GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinn07&show_icons=true&theme=gotham)
 ---
 <!-- Top Languanges -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinna07&layout=compact&theme=radical)](https://github.com/Sabrinna07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinn07&layout=compact&theme=radical)](https://github.com/Sabrinn07/github-readme-stats)
 
 
