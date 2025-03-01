@@ -12,7 +12,7 @@ I'm Sabrinna and I take a technical computer course at IFCE!
     <summary>👨‍💻 More about me</summary>
   
     - 🪄 I am 17 years old, and I live in Brazil
-    - 🌷 I am studying the fourth period of the IT technical course. I started studying at IFCE in 2022
+    - 🌷 I am studying the fifth period of the IT technical course. I started studying at IFCE in 2022
     - ⚡ I really like reading and learning about new technologies. I do sports like futsal, cycling and bodybuilding
 
 </details>
